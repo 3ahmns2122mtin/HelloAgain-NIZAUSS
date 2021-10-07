@@ -20,7 +20,7 @@ https://3ahmns2122mtin.github.io/HelloAgain-NIZAUSS/
 
 
 ### Visuelle Einblicke in das Projekt: 
-![sc-ue01helloagain](https://user-images.githubusercontent.com/28704310/132992326-6bd52f52-8af3-48e5-8406-060d0270f158.JPG)
+![project_v1](https://user-images.githubusercontent.com/90834356/136336997-e29c1628-4f67-4937-91d3-38fa801de9c7.JPG)
 
 ### Notwendiges für die Ausführung: 
 Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
